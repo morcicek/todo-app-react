@@ -17,7 +17,7 @@ This is an application that I use React.js to track my task.
 
 ### Screenshot
 
-![](./ezgif.com-video-to-gif.gif)
+![](./screenRecord.gif)
 
 ### Links
 
