@@ -1,6 +1,6 @@
-# Task Tracker
+# Todo App
 
-This is an application that I use React.js to track my task.
+This is an application that I use React.js to save todos constantly with LocalStorage.
 
 ## Table of contents
 
