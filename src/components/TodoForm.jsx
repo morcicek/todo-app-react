@@ -18,7 +18,7 @@ const TodoForm = ({ todoText, setTodoText, edit, onHandle }) => {
           className={`btn btn-${
             edit ? 'primary text-white' : 'pink'
           } text-dark`}
-          type="button"
+          type="submit"
           id="button-addon2"
         >
           {edit ? 'SAVE' : 'ADD'}
